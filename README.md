@@ -69,13 +69,10 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POcodingWER&theme=radical)
+<!-- 1. 기본 Stats (다시) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POcodingWER&show_icons=true&theme=radical)
+
 
 </div>
 
-<div align="center">
 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF6B6B?style=flat-square&logo=GitHub&logoColor=white)](https://pocodingwer.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:cjftns01@gmail.com)
-
-</div>
