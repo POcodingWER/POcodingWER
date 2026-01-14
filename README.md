@@ -65,14 +65,16 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 📝 Latest Blog Posts
 
-<!-- 1. 기본 Stats (다시) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POcodingWER&show_icons=true&theme=radical)
+- [CloudFront 비용 절감 전략](https://pocodingwer.github.io/aws/2025/12/10/cloudfront_cost_savings/)
+- [CloudFront 캐시 최적화](https://pocodingwer.github.io/aws/2025/12/02/cloudfront_cache/)
+- [Cookie 보안 가이드](https://pocodingwer.github.io/front/2025/08/07/cookie/)
+- [React Query 실전 가이드](https://pocodingwer.github.io/reactguide/2025/08/01/reactQuery/)
 
+➡️ [More posts...](https://pocodingwer.github.io/)
 
-</div>
+---
 
 
